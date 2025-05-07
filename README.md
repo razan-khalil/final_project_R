@@ -60,3 +60,5 @@ NutriChef is an intelligent, multimodal AI assistant that helps you plan meals, 
 | 🎥 Video | "How to make Kabsa" from a YouTube cooking video |
 
 ---
+## deployment_ Demo: 
+📹 [Watch NutriChef AI Demo](https://drive.google.com/file/d/1ixFX2wDqrKansq0MEx2ZVf38A9mTVo58/view?usp=sharing)
